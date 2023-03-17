@@ -35,6 +35,12 @@ body {
     line-height: 54px;
 }
 
+.text {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+}
 .row {
     display: flex;
     flex-flow: row wrap;
@@ -93,10 +99,6 @@ header {
 
 .hero-text {
     width: 475px;
-    font-family: 'Noto Sans', sans-serif;
-    font-size: 18px;
-    line-height: 27px;
-    font-weight: 400;
 }
 
 #story {
@@ -126,10 +128,6 @@ header {
 .story-text {
     width: 380px;
     color: #163A24;
-    font-family: 'Noto Sans', sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 27px;
 }
 
 
@@ -181,10 +179,6 @@ header {
 }
 
 .customers-text {
-    font-family: 'Noto Sans', sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 27px;
     color: #FBFAF7;
     text-align: center;
 }
@@ -202,10 +196,6 @@ header {
 }
 
 .employess-text {
-    font-family: 'Noto Sans', sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 27px;
     color: #163A24;
     width: 760px;
     margin: 0 auto;
