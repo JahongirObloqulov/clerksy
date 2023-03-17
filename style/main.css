@@ -187,6 +187,7 @@ header {
     background-color: #F2EFE6;
     padding-top: 120px;
     padding-bottom: 135px;
+    margin-bottom: 180px;
 }
 
 .employees-title {
@@ -200,4 +201,22 @@ header {
     width: 760px;
     margin: 0 auto;
     text-align: center;
+}
+
+#scenes {
+    margin: 0 130px;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+.scenes-content {
+    margin: 100px;
+    
+}
+.scenes-title {
+    margin-bottom: 27px;
+}
+.scenes-text {
+    color: #163a24;
 }
