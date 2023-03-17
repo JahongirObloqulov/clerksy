@@ -278,3 +278,38 @@ header {
     line-height: 22px;
     margin-bottom: 15px;
 }
+
+#prices {
+    padding: 120px 0;
+    background-color: #F2EFE6;
+    text-align: center;
+}
+
+.price-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 23px;
+
+}
+.prices-title {
+    margin-bottom: 26px;
+}
+.price-title {
+    font-size: 28px;
+}
+
+.prices-text {
+    margin-bottom: 18px;
+}
+.price-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+
+}
+
+.price-text {
+    font-size: 18px;
+}
