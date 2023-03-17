@@ -220,3 +220,61 @@ header {
 .scenes-text {
     color: #163a24;
 }
+
+#services {
+    margin-bottom:120px;
+}
+.services-content {
+    text-align: center;
+}
+
+.services-title {
+    margin-bottom: 26px;
+}
+
+.services-text {
+    margin-bottom: 18px;
+}
+
+.services-cards{
+    justify-content: space-around;
+}
+
+.services-card-item {
+    width: 353px;
+    height: 393px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px #E9E4D5;
+    padding: 50px 40px 60px 40px;
+    text-align: left;
+}
+
+.card-long {
+    height: 430px;
+}
+.services-card-item img {
+    margin-bottom: 20px;
+}
+.card-title {
+    font-family: 'Recoleta', Georgia, serif;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 32px;
+    color: #163A24;
+    margin-bottom: 23px;
+}
+
+.card-list {
+    margin-left: 25px;
+    text-align: left;
+    
+}
+.card-list-item {
+    list-style-type: disc;
+    color: #163a24;
+    font-size: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    line-height: 22px;
+    margin-bottom: 15px;
+}
